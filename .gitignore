@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento sem título</title>
+<style>
+.uiLayer {height: auto; left: 0px; position: fixed; right: 0px; top: 0px; z-index: 400; outline: none; min-height: 100%; overflow: hidden; color: rgb(20, 24, 35); font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; line-height: 15.359999656677246px; min-width: 100%; background-color: rgba(0, 0, 0, 0.4);}
+
+.uiLayer ._50f4 a{color: rgba(27,65,171,1.00); text-decoration: none; font-size: 14px; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;}
+
+.uiLayer ._50f4 a:hover{color: rgba(27,65,171,1.00); text-decoration: underline; font-size: 14px; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;}
+
+._1yv {-webkit-box-shadow: rgba(0, 0, 0, 0.298039) 0px 2px 26px, rgba(0, 0, 0, 0.0980392) 0px 0px 0px 1px; margin: 158px auto 40px; position: relative; width: 700px;}
+
+._t {position: relative; background-color: rgb(255, 255, 255);}
+
+._4-i0 {border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(229, 229, 229); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px; color: rgb(78, 86, 101); font-weight: bold; height: 19px; line-height: 19px; padding: 10px 12px; text-shadow: rgb(255, 255, 255) 0px 1px 0px; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; background-color: rgb(245, 246, 247);}
+
+.clearfix {zoom: 1;}
+
+.lfloat {float: left}
+
+._52c9 {font-size: 14px}
+
+.rfloat {float: right}
+
+._4-i2 {padding: 12px; font-size: 14px; color: rgb(20, 24, 35); font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;}
+
+._50f4 {line-height: 18px;}
+
+._5a8u {border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; color: rgb(20, 24, 35); font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; line-height: 15.359999656677246px;}
+
+._59jt {font-size: 14px; line-height: 18px; border-top-width: 1px; border-top-style: solid; border-top-color: rgb(233, 234, 237); margin: 0px 12px; padding: 12px 0px; background: transparent;}
+
+a._42ft {color: rgb(255, 255, 255); cursor: pointer; text-decoration: none; display: inline-block; white-space: nowrap; -webkit-background-clip: padding-box; border-width: 1px; border-style: solid; border-color: rgb(67, 90, 139) rgb(60, 84, 136) rgb(51, 76, 131); border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; -webkit-box-shadow: rgba(0, 0, 0, 0.0470588) 0px 1px 1px; box-sizing: content-box; font-family: 'Helvetica Neue', Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; -webkit-font-smoothing: antialiased; font-weight: bold; padding: 0px 8px; position: relative; text-align: center; vertical-align: middle; text-shadow: rgba(0, 0, 0, 0.2) 0px -1px 0px; font-size: 12px; line-height: 22px; background: url(images/wL6VQj7Ab77.png) 0px -335px repeat-x rgb(78, 105, 162);}
+
+._ohf {font: 11px 'Lucida Sans', Monaco, 'Courier New', monospace; color: #999;
+
+}
+</style>
+</head>
+
+<body style="overflow:hidden; background: #f4f4f4">
+
+<div class="uiLayer" id="dialog">
+
+	<div class="_1yv" labelledby="null" role="dialog">
+		<div class="_t">
+			<div reactid=".er" style="height: auto">
+				<div class="_4-i0" reactid=".k.0">
+	<div class="clearfix" reactid=".k.0.0">
+		<div class="lfloat" reactid=".k.0.0.$left">
+			<div class="_52c9" reactid=".k.0.0.$left.0">
+				<span reactid=".k.0.0.$left.0.$=10:0">Status vazio</span></div>
+		</div>
+		<div class="rfloat" reactid=".k.0.0.$right">
+			<div class="_51-u" reactid=".k.0.0.$right.0">
+				<font size="-4">X</font></div>
+		</div>
+	</div>
+</div>
+<div class="_4-i2">
+	<div class="_50f4" reactid=".k.1.0">
+		<span class="_50f4" reactid=".k.1.0.0" style="color: rgb(78, 86, 101);">Desenvolvi essa janela modal css, para quem quer aplicar em suas páginas uma janela sofisticada e igual a do novo <a href="https://www.facebook.com/joersbrasil">facebook</a>. </span></div>
+</div>
+<div class="_5a8u" reactid=".k.2">
+	<div class="_59jt" reactid=".k.2.0">
+		<div class="clearfix" reactid=".k.2.0.0">
+			<div class="lfloat" reactid=".k.2.0.0.$left">
+				<div class="_ohf" reactid=".k.2.0.0.$left.0">
+					&nbsp;Desenvolvido por: Joel Abreu joersbrasil@gmail.com</div>
+			</div>
+			<div class="rfloat" reactid=".k.2.0.0.$right">
+				<div reactid=".k.2.0.0.$right.0">
+					<a action="cancel" class="_42ft" href="#" reactid=".k.2.0.0.$right.0.0" onClick="dialog.style.display='none'" tabindex="0"><span reactid=".k.2.0.0.$right.0.0.1">Fechar</span></a></div>
+			
+			</div>
+		</div>
+	</div>
+</div>
+
+				<div class="_4-i2" reactid=".er.1">
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+   
+
+</body>
+</html>
